@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5816,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-vms-in-a-subscription-using-python-from-azure-automation/master/stop_azure_vm.py",
+    "DownloadCount": 1216,
+    "Id": "Stop-Azure-VMs-in-a-074888a8",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 65,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-8-14T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Stops Azure resource manager virtual machines in a subscription.This Azure Automation runbook runs on Azure to stop (deallocate) Azure vms in a subscription.If no arguments are specified, then all VMs that are currently started are stopped.",
+    "Title": "Stop Azure VMs in a subscription using Python from Azure Automation",
+    "UpdatedDate": "2018-8-14T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-vms-in-a-subscription-using-python-from-azure-automation",
+    "UserTags": "Azure Automation, Microsoft Azure Virtual Machines, Python"
+}
